@@ -2,8 +2,11 @@
 
 ## contact 
 Eric A. Wilson
+
 Arizona State University 
+
 [google scholar](https://scholar.google.com/citations?user=s-YMZVwAAAAJ&hl=en)
+
 [email](eawilso6@asu.edu)
 
 ---
